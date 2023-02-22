@@ -30,6 +30,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IgorMelleiro/IgorMelleiro/blob/output/snake.svg" alt="Snake animation" />
-
 ###
